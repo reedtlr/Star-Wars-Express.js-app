@@ -13,3 +13,5 @@ Project is created with:
 * HTML, Javascript
 * JQuery, Boostramp CDN
 * Node.js, Express.js
+
+![Image of the website](https://reedtlr.github.io/star-wars-express.js-app/assets/weather1.png)
